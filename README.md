@@ -14,4 +14,4 @@ multiple levels of NaiveBayesClassifiers needed for generating the DDC Code and 
 details on how it works. Training can take an hour. n inferenceing mode, it reads the saved classifiers and outputs the 
 code
 
--`Explanation.MD`- Contains a summary of this work and how the system is designed
+-[`Explanation.MD`](Explanation.md)- Contains a summary of this work and how the system is designed
